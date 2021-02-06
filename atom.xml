@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-06T05:00:14.487Z</updated>
+  <updated>2021-02-06T05:21:29.379Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Page+Hexo博客框架+Next主题搭建Blog记录</title>
-    <link href="http://example.com/2021/02/06/Page-Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6-Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/"/>
-    <id>http://example.com/2021/02/06/Page-Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6-Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/</id>
+    <title>使用GitHub Page+Hexo博客框架+Next主题搭建Blog记录</title>
+    <link href="http://example.com/2021/02/06/%E4%BD%BF%E7%94%A8GitHub%20Page+Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6+Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2021/02/06/%E4%BD%BF%E7%94%A8GitHub%20Page+Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6+Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/</id>
     <published>2021-02-06T04:22:20.000Z</published>
-    <updated>2021-02-06T05:00:14.487Z</updated>
+    <updated>2021-02-06T05:21:29.379Z</updated>
     
-    <content type="html"><![CDATA[<p>参考:</p><blockquote><p><a href="https://hexo.io/">https://hexo.io/</a><br><a href="https://theme-next.org/">https://theme-next.org/</a><br><a href="https://hexo-theme-next.netlify.app/">https://hexo-theme-next.netlify.app/</a><br><a href="https://github.com/hexojs/hexo-generator-feed">https://github.com/hexojs/hexo-generator-feed</a><br><a href="https://github.com/hexojs/hexo-deployer-git">https://github.com/hexojs/hexo-deployer-git</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><ul><li><a href="https://github.com/">GitHub</a>账号</li><li><a href="https://nodejs.org/zh-cn/download/">node.js</a></li><li><a href="https://git-scm.com/downloads">git</a></li></ul><p>(可选)</p><hr><h2 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h2><hr><h2 id="配置SSH-key"><a href="#配置SSH-key" class="headerlink" title="配置SSH key"></a>配置SSH key</h2><hr><h2 id="配置hexo"><a href="#配置hexo" class="headerlink" title="配置hexo"></a>配置hexo</h2><hr><h1 id="使用hexo写Blog"><a href="#使用hexo写Blog" class="headerlink" title="使用hexo写Blog"></a>使用hexo写Blog</h1><h1 id="额外内容"><a href="#额外内容" class="headerlink" title="额外内容"></a>额外内容</h1><h2 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h2><hr><h1 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h1><blockquote><p><a href="https://hexo.io/">hexo官网</a><br><a href="https://theme-next.org/">next参考_英文</a><br><a href="https://hexo-theme-next.netlify.app/">next参考_英文</a><br><a href="http://theme-next.iissnan.com/">next参考_中文</a><br><a href="https://docs.github.com/">GitHub文档</a><br><a href="https://pages.github.com/">GitHub Pages文档</a><br><a href="https://github.com/hexojs/hexo-generator-feed">hexo rss插件</a><br><a href="https://github.com/hexojs/hexo-deployer-git">hexo 部署github插件</a></p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;参考:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;https://hexo.io/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://theme-next.org/&quot;&gt;https://theme-next.org/&lt;/a&gt;&lt;</summary>
+    <summary type="html">&lt;h1 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;账号&lt;/li&gt;
+&lt;li&gt;&lt;a h</summary>
       
     
     
